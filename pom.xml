@@ -10,12 +10,11 @@
         <version>2.0.6.RELEASE</version>
     </parent>
 
-    <groupId>com.funtl</groupId>
+    <groupId>org.faramita</groupId>
     <artifactId>myshop-dependencies</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <url>http://www.funtl.com</url>
     <inceptionYear>2018-Now</inceptionYear>
 
     <properties>
@@ -35,7 +34,7 @@
 
         <!-- Commons Settings -->
         <kyro.version>0.42</kyro.version>
-        <mysql.version>5.1.46</mysql.version>
+        <mysql.version>8.0.13</mysql.version>
     </properties>
 
     <dependencyManagement>
